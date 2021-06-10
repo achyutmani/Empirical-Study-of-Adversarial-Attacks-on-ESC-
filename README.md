@@ -6,4 +6,11 @@ by the deep model. This study is performed on three benchmark ESC datasets: ESC-
 <b><font color="red">Requirements: <br>
 1. Pytorch== 1.5<br>
 2. Python== 3.8 <br>
+3. Torchattacks
+4. Librosa
+5. Matplotlib 
+6. Numpy 
+7. Pandas 
+8. H5py 
+
 
