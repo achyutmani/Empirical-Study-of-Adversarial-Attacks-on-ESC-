@@ -6,7 +6,6 @@ by the deep model. This study is performed on three benchmark ESC datasets: ESC-
 <b><font color="red">Requirements: <br>
 1. Pytorch== 1.5<br>
 2. Python== 3.8 <br>
-3. Cuda Toolkit==10.2<br> 
-4. Operating System: POP! OS 20.10 <br>
-5. GPU Confugration: Persistence-M 
+3. Operating System: POP! OS 20.10 <br>
+4. GPU Confugration: Persistence-M 
 
